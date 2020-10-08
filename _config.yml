@@ -5,6 +5,7 @@
 title: VG Blog
 # Short bio or description (displayed in the header)
 description: VG progress
+theme: jekyll-theme-merlot
 
 #
 # !! DON'T EDIT BELOW THIS MESSAGE
