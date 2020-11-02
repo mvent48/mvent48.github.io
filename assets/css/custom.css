@@ -1,8 +1,8 @@
-.nav-content {
+main_content nav-content {
   display: flex;
 }
 
-.nav-links {
+.nav-link {
   display: blcok;
   width: 20%;
 }
