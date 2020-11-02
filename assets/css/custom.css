@@ -1,9 +1,9 @@
-main_content nav-content {
+main-content nav-content {
   display: flex;
 }
 
 .nav-link {
-  display: blcok;
+  display: block;
   width: 20%;
 }
 
