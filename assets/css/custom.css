@@ -7,8 +7,8 @@ main-content nav-content {
   width: 20%;
 }
 
-.page-header {
-  background-image: url("/assets/images/DSC_0231.jpg");
+header {
+  background-image: url("/file/pictures/nmsfly.jpg");
   background-size: cover;
 }
 
