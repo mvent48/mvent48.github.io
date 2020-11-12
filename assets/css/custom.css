@@ -10,8 +10,13 @@
 header {
   background-image: url("/file/pictures/nmsfly.jpg");
   background-size: cover;
+  position: absolute;
 }
 
   body {
   color: black;
   }
+
+section {
+  position: absolute;
+}
