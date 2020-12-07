@@ -8,7 +8,7 @@
 }
 
 body {
-  background-image: "/assets/css/images/nmsfly.jpg";
+  background-image: url("/assets/images/nmsfly.jpg");
   background-size: cover;
   position: static;
 }
