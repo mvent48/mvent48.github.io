@@ -8,7 +8,7 @@
 }
 
 header {
-  background-image: url("/file/pictures/nmsfly.jpg");
+  background-image:"/assets/css/images/nmsfly.jpg";
   background-size: cover;
   position: static;
 }
